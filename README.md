@@ -4,8 +4,8 @@
 
 **one**
 __one__
-* *two* *
-_ _two_ _
+*two*
+_two_
 
 
 
