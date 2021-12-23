@@ -3,9 +3,12 @@
 ###  My First Repo
 
 **one**
-__one__
+__bold__
 *two*
-_two_
+_italic_
 
+~~three~~
+~~line throwgh~~
 
-
+**four_both_**
+__bold*italic*__
