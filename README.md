@@ -1,17 +1,9 @@
-# Nody-repo
+الجنيات
 
-###  My First Repo
+التعاون collaboration
 
-**one**
-__bold__
-*two*
-_italic_
+نيلي indigo
 
-~~three~~
-~~line throwgh~~
+مهر pony
+مهور ponies
 
-**four_both_**
-__bold*italic*__
-
-**Basic writing and formatting syntax**
-**https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax**
