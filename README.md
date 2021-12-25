@@ -1,3 +1,4 @@
+ pairies
 الجنيات
 
 التعاون collaboration
@@ -6,4 +7,5 @@
 
 مهر pony
 مهور ponies
+
 
